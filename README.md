@@ -1,7 +1,20 @@
 # DCCNet-and-CPSAD-FS
 Dynamic Cross Characterization Network for Few-Shot IC Package Substrates Surface Defect Segmentation
 
-Our paper is currently in the review stage of the journal IEEE Transactions on Industrial Informatics. After the paper is accepted, we will upload the code and the dataset as soon as possible.
+Our paper is currently accepted by IEEE Transactions on Industrial Informatics.
+
+```
+@ARTICLE{11495250,
+  author={Li, Haoyuan and Yu, Ruiyun and Guo, Bingyang},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={Dynamic Cross Characterization Network for Few-Shot IC Package Substrates Surface Defect Segmentation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Feeds;Antennas;Horn antennas;Integrated circuits;Circuits;Oscillators;Circuits and systems;System-in-package;Through-silicon vias;System-on-chip;Ceramic package substrate;dynamic cross characterization;few-shot learning;surface defect segmentation},
+  doi={10.1109/TII.2026.3683147}}
+```
 
 # CPSAD-FS Dataset
 
